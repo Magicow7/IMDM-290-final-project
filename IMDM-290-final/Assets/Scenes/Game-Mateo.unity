@@ -3844,7 +3844,7 @@ MonoBehaviour:
   RHand: {fileID: 8342454692418850562}
   prevValue: 0
   rotationratio: 0.4
-  projectileSpeed: 250
+  projectileSpeed: 500
   projectile: {fileID: 8245955750375465625, guid: c60e879c834eda848bad92f08d2d3225, type: 3}
 --- !u!1 &8342454693605395952
 GameObject:
