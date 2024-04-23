@@ -20,6 +20,23 @@ public class SoundTrigger : MonoBehaviour
 
     private void OnTriggerEnter(){
         soundOn = !soundOn;
-        player.mute = !soundOn;
+        StartCoroutine(volumeChange(soundOn));
+        //player.mute = !soundOn;
+    }
+
+    private IEnumerator volumeChange(bool on){
+        for(int i = 0; i < 10; i++){
+            yield return new WaitForSeconds(0.1f);
+            if(on){
+                player.volume = i*0.1f;
+            }else{
+                player.volume = 1 - (i*0.1f);
+            }
+        }
+        if(on){
+                player.volume = 1.0f;
+            }else{
+                player.volume = 0f;
+            }
     }
 }
