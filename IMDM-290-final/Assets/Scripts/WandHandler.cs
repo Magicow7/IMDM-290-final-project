@@ -33,7 +33,6 @@ public class WandHandler : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(XRCharacterData.RightController.Grip);
         if((Input.GetKeyDown("space")  || Input.GetButtonDown("Fire2"))){
             GameObject newProjectile = Instantiate(projectile, RHand.transform.position, RHand.transform.rotation);
             Vector3 average = Vector3.Lerp(RHand.transform.forward, RHand.transform.up, rotationratio);

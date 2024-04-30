@@ -5,6 +5,8 @@ using UnityEngine;
 public class SoundTrigger : MonoBehaviour
 {
     public bool soundOn = false;
+
+    public GameObject constellationLines;
     public AudioSource player;
     // Start is called before the first frame update
     void Start()
@@ -20,6 +22,7 @@ public class SoundTrigger : MonoBehaviour
 
     private void OnTriggerEnter(){
         soundOn = !soundOn;
+        constellationLines.SetActive(soundOn);
         StartCoroutine(volumeChange(soundOn));
         //player.mute = !soundOn;
     }
