@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 0
   spriteMeshType: 1
   alignment: 0
@@ -121,18 +121,5782 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: MagicWand particles_0
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2884
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f34774e94a25f8488e99dda1955c116
+      internalID: -620614922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_1
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2875
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06072d0d9c109414b9aff367aecc8f11
+      internalID: -2032972964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2907
+        width: 268
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e40630aa88211b44ac9eeb4407760d6
+      internalID: 351234071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_3
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 2907
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a42e5deffc3a24780936957c59cf82
+      internalID: -751842911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_4
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2884
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1996a394f37cd074cad8c6256537866c
+      internalID: 1579638664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2896
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e16dfa7e5c1f384b862c0ccadc1cc3a
+      internalID: 8927891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_6
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2874
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ac65ab1bd9a040a80c480a0deb94c
+      internalID: 18174981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_7
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2898
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6024206b0876c4f811ec0c7f63c1e6
+      internalID: 1414060203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2866
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f9ae60d02ab01448bfdebcea9a1869
+      internalID: 1297620728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2491
+        width: 174
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72ac6646bc836b44b85058b7ca4f07d
+      internalID: 2017707145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2888
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d027628922844a643af0e9e9c86596c9
+      internalID: -419136464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2879
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102796f7746a48d40b1e1006529f04fd
+      internalID: 2130495343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_12
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 2456
+        width: 456
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0da9a4019d53c4b9b84d833bc7e072
+      internalID: -281071390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_13
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2491
+        width: 188
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687edafa917ee8648b14d157495b8b39
+      internalID: -1446852701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_14
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2867
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f924f2c9a805f41965ea0b69d7149b
+      internalID: 1262053859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2840
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f25c41696e628448a69ea4dcc600745
+      internalID: -2040490659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_16
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2858
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae8e6c012947d64e9844acb721e023e
+      internalID: 1713267076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_17
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2840
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576df58930d72b946b82e1a2554242de
+      internalID: 509735449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_18
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 2822
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8494c3256d5ed4d90e127867d9a8c7
+      internalID: -1564896351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2804
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0efb5e4b9c1e5042921af568ecab0c5
+      internalID: -1715331850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2661
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7042d00527d3d7243b2636a94fc1784b
+      internalID: -745195366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_21
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 2649
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023ae1775ab68a34c965e4a118fe6c47
+      internalID: 982710200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_22
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2633
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5906c7f45cd5bd349b268d1327e9f917
+      internalID: 942884779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2625
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf93f395647d64eac5fb60e819bcf2
+      internalID: 1904242420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_24
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 2625
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa694961dea8154dbb5048ac18f4eb3
+      internalID: 1451933055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_25
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 2614
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863cc3881ca4bff499e34cb5e1aca79a
+      internalID: 2103179234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_26
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2581
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6271e68e5d2a0e64cb3518d6c7d8482f
+      internalID: -1409285605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_27
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 2607
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2632e21b5674a49bb9cd5565b880ab
+      internalID: -1831182270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_28
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2590
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8861c26bed7f74db3e279676d39d3d
+      internalID: -1918326017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_29
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2554
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d5d35bf0ed3a246a6a20a0a738d80a
+      internalID: 172389952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_30
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2581
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb52e957808441a438b81a7394909a7a
+      internalID: -2101154920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_31
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 2554
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2ed1159234d9b45a884ac1dae7a79f
+      internalID: 304431344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_32
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 2563
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4620ff8976b6c4d9c7bd521b844bac
+      internalID: 612306106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_33
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2563
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b19de851bf3cf048b773b11429cbde6
+      internalID: 346038701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_34
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2563
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faec141dc952204f94c29b4b0582681
+      internalID: 1103376892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_35
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2545
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0c34be3f03515499ea389fb2886388
+      internalID: 1707696651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_36
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 2500
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79cbd21b05588e4d80366450fbfedc9
+      internalID: -1453209759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2509
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86307f4da1b28441a18c3b1caaceb96
+      internalID: -2055711629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_38
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2500
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497e3cbb868c34545b9bd975dedfc123
+      internalID: -125800232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_39
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2465
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657bfa6bced978242969d445a95d96e0
+      internalID: 678170402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_40
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2491
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cbae84c7d3b9c45bd261dd57f2e360
+      internalID: -1878521920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2474
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c220256075a3a488db105dbf1a111d
+      internalID: 376945380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_42
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2474
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d67d76d3384648a9d11693ba9142d
+      internalID: -281399730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_43
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2474
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df241c81e5e420498b1b396661080de
+      internalID: -51125527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_44
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 2465
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286ae8f6b236f14488e8976dea30ef8c
+      internalID: -933924769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_45
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2474
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e0cdf13d5fffe4fad7e07a2159d763
+      internalID: -327990448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_46
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2474
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86376ff590afb1428fac726e419a09d
+      internalID: -1190199739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_47
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2465
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8697ed70ebc0f4389f60b97ceb3c29
+      internalID: 1437265703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_48
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2465
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5d1e34064b4594cb2ce9e4f48142ef
+      internalID: 133149922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_49
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2465
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46de7b477cece7641b0a8688cc56b9b7
+      internalID: 806166786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_50
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 2465
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecced531f473383448d45e5337cd903f
+      internalID: 2147327390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_51
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2456
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f182d20fcd98bdb4e8fd2c732ecee30a
+      internalID: 550415179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_52
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2456
+        width: 27
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d186f34031a374c9a489e82101b5c6
+      internalID: -503650785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_53
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 2456
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a112dc87665ac624886bb4fb9bb73427
+      internalID: 976517509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_54
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2456
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54964a6d48ba141488c98a61f28065c5
+      internalID: -1007162214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_55
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2363
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdd3454f0c9f9647a8eedec550faa66
+      internalID: 1698689116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_56
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2357
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d425d9b21ed834e83916212a27aff3
+      internalID: -1454197925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_57
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 2295
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a8cf4d9af1b5145bbd798f9120b605
+      internalID: -36175617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_58
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2349
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a58751f5b555df458245262ed9f9844
+      internalID: -1820060323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_59
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 2349
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6822f5a5d11e8af4e918f31910f14b1c
+      internalID: 1130078996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_60
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1860
+        width: 296
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b42a639dfbff83488745e5dd9d0fb3b
+      internalID: -548065757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_61
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 2340
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05819b2106152944f8c597b145bec380
+      internalID: 165683431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_62
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2340
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd25ac30e1d3cb744a821b3ece1a2480
+      internalID: -5044231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_63
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2304
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d022b390d02381146818e817bbf267a2
+      internalID: 1607743121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_64
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2286
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f7f8588faef584b9cc678c39b5408c
+      internalID: 838971641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_65
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 2286
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc06b8767565834aa47c0f797f1f365
+      internalID: 1192899266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_66
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 2322
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0f86d8cb34b7848b5dcc3f51cba009
+      internalID: -177367950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_67
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1697
+        width: 268
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd142ddfec1824c43b35a98dea9d7072
+      internalID: 1797970550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_68
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 2304
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c839aa808b6d45468514d86852f5cbb
+      internalID: 1996596545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_69
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 2295
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4e56b5bd3962a46ab3cd9eefaa3245
+      internalID: 1604413197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_70
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 2286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c78405ac992554c871f865df0f66c7
+      internalID: -1541145140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_71
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 2277
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561c3555a926b27459ca0839873e2525
+      internalID: -145024102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_72
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 2258
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc7262e4ea92a84285b51c6dfc8daa5
+      internalID: -1680340173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_73
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 2250
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bd6ebf4925dc649ba91a397d6009a4
+      internalID: 1815058068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_74
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 2249
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a244465cf360754b90051775cd06e81
+      internalID: -1954516603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_75
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 2231
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b689674b6268b3845bad45f42df62914
+      internalID: -773721134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_76
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 2234
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5b2c99e9a212749a0abaafa28cbba1
+      internalID: 1495426743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_77
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2206
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4933a7f0968777e4ba884dcfc0b6d049
+      internalID: 1087113398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_78
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 2225
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6f46293ef8d31488a1a0f4113eb00d
+      internalID: 1710869301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_79
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 2152
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f305253c854014a98de19f45bae0fa
+      internalID: -1474951803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_80
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 2216
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1bcf5c57dd2a14fb505baf4341c258
+      internalID: 2115358810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_81
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2206
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6287c44c94df1428e15933e7f384bc
+      internalID: -1092547744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_82
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf256db35707444a854668b401c5141
+      internalID: -857937973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_83
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2169
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c342a2dc67297dd48a9ec46c40037760
+      internalID: 2113718230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_84
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2179
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b8a499c02a42f4f815fd7ccc3cc2f6
+      internalID: -30504960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_85
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 2179
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a92d9fa760b54499bce999a675195b
+      internalID: -1104353561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_86
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2170
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad21ce12f09d5034493708d5d9c996ef
+      internalID: -511028332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_87
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 2125
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ee6621a1939654bba3e79e484ea5cb
+      internalID: -732817391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_88
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2158
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fce3d691a756d4b8b3a235b9a5c21c
+      internalID: -1671176379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_89
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 2116
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ec40871fccd4d40bc58a74c79f6570
+      internalID: -929830315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_90
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1732
+        width: 188
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf6d512bd24fc84087eefb81f8cb90a
+      internalID: 34735072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_91
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 2134
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609142e6060dc9d439623fda560face5
+      internalID: -115715868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_92
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2081
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5313cca6e71308b4eadc05238d524abb
+      internalID: -1308546287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_93
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2090
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f854e289e0e94740ae5b659c4af4dfc
+      internalID: -931739810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_94
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 2090
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abf835c9744dc34eae49b38304dd507
+      internalID: 985511980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_95
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2072
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5fa3245c6e53247b37ae6e898d6237
+      internalID: -390345990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_96
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 2045
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fc34f017eee1c469d96e5f927e0365
+      internalID: -1669614600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_97
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2000
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b21e438f2a67094b81d4d47344861e3
+      internalID: -1556904624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_98
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1956
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b739f3612469b4fb40e278365543c7
+      internalID: -1084410384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_99
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1982
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fea021ce885bf4788f0ebd1f5b0e80
+      internalID: 1444886803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_100
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1965
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231cd5c4e50ff6b4e8b07cadfc7a126e
+      internalID: -227493875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_101
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1929
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8bca284b95cb54b82f88ffe79e5bc9
+      internalID: -968600533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_102
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1938
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb49137434cebf4caaaafe5e9b4e1d2
+      internalID: -237621489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_103
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1840
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5d57d542a37984e97bbb0eac972f27
+      internalID: -1120295900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_104
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1892
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9903f14d8c51247409906e2267b0bf19
+      internalID: 724757523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_105
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1884
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdad57aff118824480e3016263ca08e
+      internalID: 755063663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_106
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1848
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bfda483e03466478f46c79baada5b2
+      internalID: 640349623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_107
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1875
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c5dc302d9e185439425425965d3cbd
+      internalID: 1012271188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_108
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1857
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a76745977c934bb8c4b102664c1a4
+      internalID: -1542406236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_109
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1840
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ff075644a206740b633ef948a68ae2
+      internalID: 1502691417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_110
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1857
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e0548eab38dd248be0c18d51b92d60
+      internalID: -1687210515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_111
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1848
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130d0fcabe45184448205966ad8d703c
+      internalID: -1819021048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_112
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1848
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c169c7eb08c24949beedc80394baeab
+      internalID: 918490072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_113
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1840
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f1b916b647d4c45aa9f40756638925
+      internalID: 1389838516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_114
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1840
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4c99f6415874d4d81b7a26e440b885
+      internalID: -858855484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_115
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1831
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa51421e13922c4f92e9ff10321003c
+      internalID: -1854952253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_116
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1831
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792c74b29660e7d48a5d87d21c2ebc6e
+      internalID: 873753227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_117
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1750
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf211879e7e5a4f9d846ba9a7a5923
+      internalID: 1312377042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_118
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1768
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9814a280b8309d54bba88ff752808b83
+      internalID: 802934044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_119
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1768
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ce1f4152b6c5447849c5262bcfd967
+      internalID: 1813919495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_120
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1741
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2e2ee0bfff2834ca1f245dc9a0ae99
+      internalID: -757172934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_121
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1679
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f48e339060577d4bad8b97c710ea3c8
+      internalID: 379974656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_122
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1688
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb36ad82d708904dbfb25a7c1c7620b
+      internalID: 186124783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_123
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1679
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dfde47603cefe42b4338ae99b8cf85
+      internalID: 196804204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_124
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1676
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292326e067798c64e9c1c9d929bd981d
+      internalID: -411783464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_125
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1661
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631f5900ca5d53b478b11362f49f64ab
+      internalID: 2014510406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_126
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1661
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c05e7057d98b8949886cc9f56ffae99
+      internalID: -2047033676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_127
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1661
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e815d87d3f305845bac6f2cf51853f2
+      internalID: 146089539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_128
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1211
+        width: 135
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbe29503b49658438dd48f19fd4f89e
+      internalID: 317690775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_129
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1625
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc6592e39622304ca06f266ba92b43a
+      internalID: -1698887470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_130
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1589
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b406c3d7630622d44b8cd70b339a910e
+      internalID: 447933550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_131
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1592
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb604279e6b5744293a7fa623a97e28
+      internalID: -319184421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_132
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1141
+        width: 241
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ea7e94b42b26d45926898ccb511f65
+      internalID: -1204062921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_133
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1536
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55e7d3e85706be4481547d0e399c832
+      internalID: -215729747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_134
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1518
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da61513059e14fb40ba3df9ef0a76137
+      internalID: 901587683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_135
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1482
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb7dab531fdc7b448bb9bf8a4c82601
+      internalID: -88763054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_136
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1482
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3397a7cd13355d479a080692b105fe8
+      internalID: -393933328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_137
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1486
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594e40a9c3548324894cabaf66e75206
+      internalID: 1695457019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_138
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1508
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cfdc7e165b51249adfb9acfdbc2cff
+      internalID: 1903782554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_139
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1509
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d3f4544ac40684dad3784ff961c67f
+      internalID: -287932344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_140
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1491
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5e5c5f15e3f0145863c98928415930
+      internalID: 255896449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_141
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1491
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeb70646d2f3c344971a35d53f994b9
+      internalID: 2017206231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_142
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1490
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0750f3bd1b11a44a53e09e0979bb2f
+      internalID: -1549930464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_143
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1223
+        width: 160
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da49a1a129dc8346b49a2e3b632c874
+      internalID: 1208873962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_144
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1473
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a435134048c1c48a09335563427c0b
+      internalID: -785807588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_145
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1456
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58afb58450324924281bb2d8cec46f5c
+      internalID: -1599682926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_146
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1438
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1aafb53ada141439bed50cbce247eb
+      internalID: -1292117683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_147
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1438
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e41c3b0dfb96340afdce1c330c1510
+      internalID: -658851987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_148
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1411
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5431e207dd9ecf4a95b222b592bb418
+      internalID: 336162062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_149
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1365
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77104c7aec9141b459f94e94bf621016
+      internalID: -799151233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_150
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1420
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9bbd0b55f2db64ab1e2eb4143c7ad7
+      internalID: -712103768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_151
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1339
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16cc378f1ee9874c844904bb044bee5
+      internalID: 588469802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_152
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1384
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b880f2bd30ef342498eeb90e1b4a6247
+      internalID: 1082764192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_153
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1348
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf77d8ecbe179b4086b80de03958ef6
+      internalID: 938246099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_154
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1384
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625c9f6e0668219409c1eb094b521ffc
+      internalID: -916589606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_155
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1375
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0656a6fea34f5d94fae5251e58c2638f
+      internalID: 162422428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_156
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1348
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b381747397b213c48bffc4c72b13d61b
+      internalID: 1836692172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_157
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1295
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faae0b84d115eb543bf38e08c5cea6b2
+      internalID: 1232706061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_158
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1322
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b12e37a12fbdad4a9a792183cf0b3f9
+      internalID: 1858615421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_159
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1304
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d74250fd7e05a4e852dbac06c80d1d
+      internalID: 338606524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_160
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1304
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3167cfd98939e4bbe92e7276a19e5d
+      internalID: -573081762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_161
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1259
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c2bae958543ba42a8c97abc36f41e5
+      internalID: -97548565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_162
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1223
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbc5f66ee4f77b4f8957ed26a12757e
+      internalID: -336174435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_163
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1232
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e9473209a67224f986057fd394d2a9
+      internalID: 281515822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_164
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1197
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1464034960198d499fa11175cb246f9
+      internalID: 1764187248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_165
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1197
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c372157c4b54c4f80cfc3d56ca296e
+      internalID: -248921159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_166
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1179
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093487f5995fd7849a4c2e98aa730d09
+      internalID: -436921658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_167
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1179
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8079227c7a1195d48a3053eab40c964f
+      internalID: -1358133916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_168
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1107
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21684651a3357b945ad4291065cc4420
+      internalID: -473318553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_169
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1107
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae3543c4736f044ba6273ea36f27e9b
+      internalID: -568031554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_170
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1080
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a3d39c422e2ca4395eaf3b1335cee2
+      internalID: 2014127000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_171
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1045
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483ef342cb19fed429eab6a53adc41b2
+      internalID: -1188534767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_172
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1085
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d7fa79c51da154795a70e47cead0b8
+      internalID: -469115164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_173
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1045
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b666a3e29ce20e0439e6775b24722e1c
+      internalID: 535707035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_174
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1072
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22204f625d262554e937897001c3abb6
+      internalID: -1212106743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_175
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1063
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17c37f55717273489974f7d0de16818
+      internalID: 1381470547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_176
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1044
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da84ab8650ff984eac24411e0c34371
+      internalID: 1518107642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_177
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1070
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d341f438257cd3149b17f7fbf0dfca85
+      internalID: 1840834033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_178
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1070
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8ae4e81b9d130458f80cc4bad5b5af
+      internalID: -1122878447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_179
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1061
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc675dacc6fa59f43a70c864e317f1cd
+      internalID: 1213488708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_180
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1054
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d870c59f5ef3814a95cc9dc2fb80373
+      internalID: 1270767448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_181
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1026
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799503a3b465d084c9a96521a9e2f151
+      internalID: -1431049770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_182
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 662
+        width: 188
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0057da8dc9fe86a4e9bd849b3e221135
+      internalID: -755839447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_183
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 991
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b413c49fc68a6c44a0c88f8c9da9456
+      internalID: 1964769881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_184
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 668
+        width: 448
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1516cb5925d7b48a74547e057633ed
+      internalID: -90058075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_185
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1009
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb863ee54bf58614b937eab586934cb5
+      internalID: 717880744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_186
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 652
+        width: 188
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa0f9f6f66023248886f7f264b3b907
+      internalID: 999010514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_187
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1009
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d774adbf4867fd4dbe27395efaf9ec8
+      internalID: -353053483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_188
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 982
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a697743a4ef1d94f93dd830920dce24
+      internalID: 335918572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_189
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1009
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d069f2faee2b3cc40b759f71c3f3fd6f
+      internalID: 1748432531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_190
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 973
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb08cfed36859a4bb47dbe2b5e377c3
+      internalID: 1476993404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_191
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 996
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3fdefcf3ca5e24595570d10073a67d
+      internalID: 1702451714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_192
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 991
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca0cc6d957426d4c84f505e190351a2
+      internalID: -1559470883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_193
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 920
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1111a6ba947db4a9fcccfdb1b81a5a
+      internalID: 1721068655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_194
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 947
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c23a25da8ef1584db3b2e4129de67a2
+      internalID: 1865012937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_195
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 920
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2b78b105e119c4f8c30e82caf5b22d
+      internalID: -1259727082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_196
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 947
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81dad5d6738ce443a895c4d37207018
+      internalID: -1129349479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_197
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 973
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65db463320832eb4f8331890f08c694a
+      internalID: -235343544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_198
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 927
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eac25d7ca2c0d4e81cec444a088374
+      internalID: 1520773483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_199
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 929
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47045d17343791144aa5c3f76e2b1944
+      internalID: 488257973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_200
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 906
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b0165ab70104a41ab6fcc3998d4ebe
+      internalID: 1671585151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_201
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 911
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22b79d4539160f43a75756925395117
+      internalID: -1598566287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_202
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 893
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df125e0c6762de840a4f30aa14886c09
+      internalID: -852967770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_203
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 893
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66040dadcb353804fb44dc863d8bfe1d
+      internalID: -1371540094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_204
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 875
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6682dad14f932449502c0ce3da2542
+      internalID: -425933450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_205
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 875
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6567c857b85a54940b4c3fe69a055543
+      internalID: 440956996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_206
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 703
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92617283c1473c84da3a1a44a513d439
+      internalID: -1518820958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_207
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 705
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dcf95d59988e740b9f829174d59d40
+      internalID: 548156772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_208
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 679
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcba2e860cf9c94ba75dfb16cdd0a8e
+      internalID: 945257619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_209
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 634
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea87bec39a43ff41a09381a6f138fcc
+      internalID: 2096290559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_210
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 634
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59733d900ddb1e249b31c280e2abc8b5
+      internalID: 1561028938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_211
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 634
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b088fd2686e8e4fbb1c5efff4683b8
+      internalID: -622100205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_212
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 661
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a768e53bcd25484593cc386df63cd22
+      internalID: -64102411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_213
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 625
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a315f12a809660e45b99b7b36aa79983
+      internalID: 117421949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_214
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 634
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892726f4ec8d87141ab7c3ec58a697d5
+      internalID: 1545989590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_215
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 634
+        width: 277
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9459a3b41a3c56a43a6204cf7cb900c9
+      internalID: 1835162556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_216
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 625
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d8551a678803d42b1b86e687d0d8d8
+      internalID: 958503401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_217
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 531
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2a641689c72c34892f378fd1460425
+      internalID: 70078246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_218
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 545
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c491ff9d512944bbc56dbf21d62298
+      internalID: -1831223223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_219
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 536
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4622c0c1f0ad20428272ed10999d820
+      internalID: -322398140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_220
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 485
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a11b00b003b47f4d8bba262fd448f04
+      internalID: -539266178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_221
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 503
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca1de5ed4264594c8c48df91c3e27c6
+      internalID: 1091764305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_222
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 499
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae5e231c84241140943d1fd13c6269d
+      internalID: -29220999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_223
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 143
+        width: 188
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74219b2265291fe45a9b3f217e936d91
+      internalID: -519764549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_224
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 460
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903c0c533a8721a42a6de3c1509ee0ca
+      internalID: 2103670985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_225
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 89
+        width: 164
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd440d8c49b3874d9937d24742427c5
+      internalID: -1958904234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_226
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 481
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e516861215e3f4cb9c2f22eabe6b03
+      internalID: 786853500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_227
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 464
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50f8eac166b37d4b981658e2dd88296
+      internalID: -1849752177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_228
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 446
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2cbdf0ff45ed3468676004cc01b09e
+      internalID: 1218591512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_229
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 264
+        width: 359
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc3bd0cb5fc4a145bd5c8f94cdf6967
+      internalID: 1124064057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_230
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 438
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02026c0d3467ab846bfa324f55cf5c47
+      internalID: 896305704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_231
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 409
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003b0529a269cf4499a8646275a80691
+      internalID: 1045045160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_232
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 420
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ed39d7a35d5b746ac437289701bf3a
+      internalID: 443045109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_233
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 420
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ef88ca450544b439152473f4a90889
+      internalID: -102802354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_234
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 384
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5961e84a20fd30d4382e99091829ae7c
+      internalID: 1945301477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_235
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 375
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69ebfcb41a83da42941aaa05a8cfc33
+      internalID: -607083303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_236
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 366
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc3f5cae9202854d996c736cc602a70
+      internalID: 1380950537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_237
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 366
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9cbb561e53ff843bab4cf295f84ad0
+      internalID: 297253234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_238
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 357
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877a9faff752aa84098242cf495f245a
+      internalID: 1093609531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_239
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 313
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284752809fcc56a43985d968122df804
+      internalID: -1037289691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_240
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 268
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cbdbaba721ce7439dfdbe58e920835
+      internalID: 482765250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_241
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 259
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1340cced19322784f839cec16df458e8
+      internalID: -1085835519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_242
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 232
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1becad72c73469f4b8c06d7bf622f485
+      internalID: -1365108959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_243
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 250
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd0bcc0e6eecb41a977c16f6422992
+      internalID: 842017596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_244
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 259
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2376ece187ee184a91658f21c02a9cd
+      internalID: -579187588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_245
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 241
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe50501476d8f8498e87776e9d91852
+      internalID: -415322429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_246
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 241
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0439b01d9d1c244192587277a7d14c6
+      internalID: -1856502068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_247
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 231
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86855d37cdce1324795433e47d1dc5f5
+      internalID: 511755680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_248
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 213
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ed21f8eae9aa7479f708a9c60914cb
+      internalID: -1858484727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_249
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 179
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e033bf4070d5e854293b9e674b7d75ad
+      internalID: 668657943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_250
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 179
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5df162a6008ba4baf86a4d9be44e91
+      internalID: -614469392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_251
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 196
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa73521ded88d142af7cc0b7b21e817
+      internalID: -749576891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_252
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 161
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80080b48cdb859849b7c05646336f0ae
+      internalID: -1570617521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_253
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 152
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d8c15830930cb4eacc076173bcace2
+      internalID: -582949074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_254
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 98
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f5b37b36e3ffd418b14b45fa6d5443
+      internalID: 1111665682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_255
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 63
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3a3ec21f7c4fc4986505f83c314be5
+      internalID: 263855560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_256
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9b1fc632b6f274dad69a129b785535
+      internalID: -400840774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_257
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 125
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5b815e593e6f44cbeb7e7bd61db0c0
+      internalID: 559228357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_258
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 107
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7658bbbdf1013459d36ecd0c55c264
+      internalID: -1075136810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_259
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 116
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08059c19768429c4eb1c68ea80c6de97
+      internalID: 1633778505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_260
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 71
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67ff5dce7ac61546bb28b7449b9d008
+      internalID: 1113724550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicWand particles_261
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 63
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383ae606664b16346beeed7817f41c60
+      internalID: -1065220658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d497c44a84a42b64b8a862766258ccb5
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MagicWand particles_0: -620614922
+      MagicWand particles_1: -2032972964
+      MagicWand particles_10: -419136464
+      MagicWand particles_100: -227493875
+      MagicWand particles_101: -968600533
+      MagicWand particles_102: -237621489
+      MagicWand particles_103: -1120295900
+      MagicWand particles_104: 724757523
+      MagicWand particles_105: 755063663
+      MagicWand particles_106: 640349623
+      MagicWand particles_107: 1012271188
+      MagicWand particles_108: -1542406236
+      MagicWand particles_109: 1502691417
+      MagicWand particles_11: 2130495343
+      MagicWand particles_110: -1687210515
+      MagicWand particles_111: -1819021048
+      MagicWand particles_112: 918490072
+      MagicWand particles_113: 1389838516
+      MagicWand particles_114: -858855484
+      MagicWand particles_115: -1854952253
+      MagicWand particles_116: 873753227
+      MagicWand particles_117: 1312377042
+      MagicWand particles_118: 802934044
+      MagicWand particles_119: 1813919495
+      MagicWand particles_12: -281071390
+      MagicWand particles_120: -757172934
+      MagicWand particles_121: 379974656
+      MagicWand particles_122: 186124783
+      MagicWand particles_123: 196804204
+      MagicWand particles_124: -411783464
+      MagicWand particles_125: 2014510406
+      MagicWand particles_126: -2047033676
+      MagicWand particles_127: 146089539
+      MagicWand particles_128: 317690775
+      MagicWand particles_129: -1698887470
+      MagicWand particles_13: -1446852701
+      MagicWand particles_130: 447933550
+      MagicWand particles_131: -319184421
+      MagicWand particles_132: -1204062921
+      MagicWand particles_133: -215729747
+      MagicWand particles_134: 901587683
+      MagicWand particles_135: -88763054
+      MagicWand particles_136: -393933328
+      MagicWand particles_137: 1695457019
+      MagicWand particles_138: 1903782554
+      MagicWand particles_139: -287932344
+      MagicWand particles_14: 1262053859
+      MagicWand particles_140: 255896449
+      MagicWand particles_141: 2017206231
+      MagicWand particles_142: -1549930464
+      MagicWand particles_143: 1208873962
+      MagicWand particles_144: -785807588
+      MagicWand particles_145: -1599682926
+      MagicWand particles_146: -1292117683
+      MagicWand particles_147: -658851987
+      MagicWand particles_148: 336162062
+      MagicWand particles_149: -799151233
+      MagicWand particles_15: -2040490659
+      MagicWand particles_150: -712103768
+      MagicWand particles_151: 588469802
+      MagicWand particles_152: 1082764192
+      MagicWand particles_153: 938246099
+      MagicWand particles_154: -916589606
+      MagicWand particles_155: 162422428
+      MagicWand particles_156: 1836692172
+      MagicWand particles_157: 1232706061
+      MagicWand particles_158: 1858615421
+      MagicWand particles_159: 338606524
+      MagicWand particles_16: 1713267076
+      MagicWand particles_160: -573081762
+      MagicWand particles_161: -97548565
+      MagicWand particles_162: -336174435
+      MagicWand particles_163: 281515822
+      MagicWand particles_164: 1764187248
+      MagicWand particles_165: -248921159
+      MagicWand particles_166: -436921658
+      MagicWand particles_167: -1358133916
+      MagicWand particles_168: -473318553
+      MagicWand particles_169: -568031554
+      MagicWand particles_17: 509735449
+      MagicWand particles_170: 2014127000
+      MagicWand particles_171: -1188534767
+      MagicWand particles_172: -469115164
+      MagicWand particles_173: 535707035
+      MagicWand particles_174: -1212106743
+      MagicWand particles_175: 1381470547
+      MagicWand particles_176: 1518107642
+      MagicWand particles_177: 1840834033
+      MagicWand particles_178: -1122878447
+      MagicWand particles_179: 1213488708
+      MagicWand particles_18: -1564896351
+      MagicWand particles_180: 1270767448
+      MagicWand particles_181: -1431049770
+      MagicWand particles_182: -755839447
+      MagicWand particles_183: 1964769881
+      MagicWand particles_184: -90058075
+      MagicWand particles_185: 717880744
+      MagicWand particles_186: 999010514
+      MagicWand particles_187: -353053483
+      MagicWand particles_188: 335918572
+      MagicWand particles_189: 1748432531
+      MagicWand particles_19: -1715331850
+      MagicWand particles_190: 1476993404
+      MagicWand particles_191: 1702451714
+      MagicWand particles_192: -1559470883
+      MagicWand particles_193: 1721068655
+      MagicWand particles_194: 1865012937
+      MagicWand particles_195: -1259727082
+      MagicWand particles_196: -1129349479
+      MagicWand particles_197: -235343544
+      MagicWand particles_198: 1520773483
+      MagicWand particles_199: 488257973
+      MagicWand particles_2: 351234071
+      MagicWand particles_20: -745195366
+      MagicWand particles_200: 1671585151
+      MagicWand particles_201: -1598566287
+      MagicWand particles_202: -852967770
+      MagicWand particles_203: -1371540094
+      MagicWand particles_204: -425933450
+      MagicWand particles_205: 440956996
+      MagicWand particles_206: -1518820958
+      MagicWand particles_207: 548156772
+      MagicWand particles_208: 945257619
+      MagicWand particles_209: 2096290559
+      MagicWand particles_21: 982710200
+      MagicWand particles_210: 1561028938
+      MagicWand particles_211: -622100205
+      MagicWand particles_212: -64102411
+      MagicWand particles_213: 117421949
+      MagicWand particles_214: 1545989590
+      MagicWand particles_215: 1835162556
+      MagicWand particles_216: 958503401
+      MagicWand particles_217: 70078246
+      MagicWand particles_218: -1831223223
+      MagicWand particles_219: -322398140
+      MagicWand particles_22: 942884779
+      MagicWand particles_220: -539266178
+      MagicWand particles_221: 1091764305
+      MagicWand particles_222: -29220999
+      MagicWand particles_223: -519764549
+      MagicWand particles_224: 2103670985
+      MagicWand particles_225: -1958904234
+      MagicWand particles_226: 786853500
+      MagicWand particles_227: -1849752177
+      MagicWand particles_228: 1218591512
+      MagicWand particles_229: 1124064057
+      MagicWand particles_23: 1904242420
+      MagicWand particles_230: 896305704
+      MagicWand particles_231: 1045045160
+      MagicWand particles_232: 443045109
+      MagicWand particles_233: -102802354
+      MagicWand particles_234: 1945301477
+      MagicWand particles_235: -607083303
+      MagicWand particles_236: 1380950537
+      MagicWand particles_237: 297253234
+      MagicWand particles_238: 1093609531
+      MagicWand particles_239: -1037289691
+      MagicWand particles_24: 1451933055
+      MagicWand particles_240: 482765250
+      MagicWand particles_241: -1085835519
+      MagicWand particles_242: -1365108959
+      MagicWand particles_243: 842017596
+      MagicWand particles_244: -579187588
+      MagicWand particles_245: -415322429
+      MagicWand particles_246: -1856502068
+      MagicWand particles_247: 511755680
+      MagicWand particles_248: -1858484727
+      MagicWand particles_249: 668657943
+      MagicWand particles_25: 2103179234
+      MagicWand particles_250: -614469392
+      MagicWand particles_251: -749576891
+      MagicWand particles_252: -1570617521
+      MagicWand particles_253: -582949074
+      MagicWand particles_254: 1111665682
+      MagicWand particles_255: 263855560
+      MagicWand particles_256: -400840774
+      MagicWand particles_257: 559228357
+      MagicWand particles_258: -1075136810
+      MagicWand particles_259: 1633778505
+      MagicWand particles_26: -1409285605
+      MagicWand particles_260: 1113724550
+      MagicWand particles_261: -1065220658
+      MagicWand particles_27: -1831182270
+      MagicWand particles_28: -1918326017
+      MagicWand particles_29: 172389952
+      MagicWand particles_3: -751842911
+      MagicWand particles_30: -2101154920
+      MagicWand particles_31: 304431344
+      MagicWand particles_32: 612306106
+      MagicWand particles_33: 346038701
+      MagicWand particles_34: 1103376892
+      MagicWand particles_35: 1707696651
+      MagicWand particles_36: -1453209759
+      MagicWand particles_37: -2055711629
+      MagicWand particles_38: -125800232
+      MagicWand particles_39: 678170402
+      MagicWand particles_4: 1579638664
+      MagicWand particles_40: -1878521920
+      MagicWand particles_41: 376945380
+      MagicWand particles_42: -281399730
+      MagicWand particles_43: -51125527
+      MagicWand particles_44: -933924769
+      MagicWand particles_45: -327990448
+      MagicWand particles_46: -1190199739
+      MagicWand particles_47: 1437265703
+      MagicWand particles_48: 133149922
+      MagicWand particles_49: 806166786
+      MagicWand particles_5: 8927891
+      MagicWand particles_50: 2147327390
+      MagicWand particles_51: 550415179
+      MagicWand particles_52: -503650785
+      MagicWand particles_53: 976517509
+      MagicWand particles_54: -1007162214
+      MagicWand particles_55: 1698689116
+      MagicWand particles_56: -1454197925
+      MagicWand particles_57: -36175617
+      MagicWand particles_58: -1820060323
+      MagicWand particles_59: 1130078996
+      MagicWand particles_6: 18174981
+      MagicWand particles_60: -548065757
+      MagicWand particles_61: 165683431
+      MagicWand particles_62: -5044231
+      MagicWand particles_63: 1607743121
+      MagicWand particles_64: 838971641
+      MagicWand particles_65: 1192899266
+      MagicWand particles_66: -177367950
+      MagicWand particles_67: 1797970550
+      MagicWand particles_68: 1996596545
+      MagicWand particles_69: 1604413197
+      MagicWand particles_7: 1414060203
+      MagicWand particles_70: -1541145140
+      MagicWand particles_71: -145024102
+      MagicWand particles_72: -1680340173
+      MagicWand particles_73: 1815058068
+      MagicWand particles_74: -1954516603
+      MagicWand particles_75: -773721134
+      MagicWand particles_76: 1495426743
+      MagicWand particles_77: 1087113398
+      MagicWand particles_78: 1710869301
+      MagicWand particles_79: -1474951803
+      MagicWand particles_8: 1297620728
+      MagicWand particles_80: 2115358810
+      MagicWand particles_81: -1092547744
+      MagicWand particles_82: -857937973
+      MagicWand particles_83: 2113718230
+      MagicWand particles_84: -30504960
+      MagicWand particles_85: -1104353561
+      MagicWand particles_86: -511028332
+      MagicWand particles_87: -732817391
+      MagicWand particles_88: -1671176379
+      MagicWand particles_89: -929830315
+      MagicWand particles_9: 2017707145
+      MagicWand particles_90: 34735072
+      MagicWand particles_91: -115715868
+      MagicWand particles_92: -1308546287
+      MagicWand particles_93: -931739810
+      MagicWand particles_94: 985511980
+      MagicWand particles_95: -390345990
+      MagicWand particles_96: -1669614600
+      MagicWand particles_97: -1556904624
+      MagicWand particles_98: -1084410384
+      MagicWand particles_99: 1444886803
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
