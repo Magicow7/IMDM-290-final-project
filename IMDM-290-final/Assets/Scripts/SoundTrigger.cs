@@ -22,6 +22,7 @@ public class SoundTrigger : MonoBehaviour
 
     private void OnTriggerEnter(){
         soundOn = !soundOn;
+        ThresholdHandler.instance.updateThreshold(soundOn);
         constellationLines.SetActive(soundOn);
         StartCoroutine(volumeChange(soundOn));
         //player.mute = !soundOn;

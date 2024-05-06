@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 2429777564159261774}
   m_Layer: 0
   m_Name: Projectile
-  m_TagString: Untagged
+  m_TagString: WandParticle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -127,6 +127,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   aliveTime: 5
+  end: 0
+  buffer: 0.1
 --- !u!135 &2429777564159261774
 SphereCollider:
   m_ObjectHideFlags: 0

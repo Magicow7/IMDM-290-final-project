@@ -38,11 +38,12 @@ public class WandHandler : MonoBehaviour
             Vector3 average = Vector3.Lerp(RHand.transform.forward, RHand.transform.up, rotationratio);
             newProjectile.GetComponent<Rigidbody>().AddForce(average*projectileSpeed, ForceMode.Force);
         }
+        /*
         if((Input.GetKeyDown("space")  || Input.GetButtonDown("Fire1"))){
             GameObject newProjectile = Instantiate(projectile, LHand.transform.position, LHand.transform.rotation);
             Vector3 average = Vector3.Lerp(LHand.transform.forward, LHand.transform.up, rotationratio);
             newProjectile.GetComponent<Rigidbody>().AddForce(average*projectileSpeed, ForceMode.Force);
-        }
+        }*/
         
     }
     //|| TryGetFeatureValue(UnityEngine.XR.CommonUsages.triggerButton) == true
