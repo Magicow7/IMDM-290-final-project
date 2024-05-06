@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:IMDM-290-final/Assets/Scenes/Materials/space.mat.meta
 guid: b469cbcf88f7a1b44ba22e0dbc0989ef
+=======
+guid: d96769465253142c19c799c91e3ded4e
+>>>>>>> Stashed changes:IMDM-290-final/Assets/Skybox/space.mat.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000

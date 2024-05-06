@@ -1,6 +1,7 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:IMDM-290-final/Assets/Scenes/Materials.meta
 <<<<<<<< Updated upstream:IMDM-290-final/Assets/Scenes/Materials.meta
-guid: 8d71cd1fd2748f644bcd2cc6b6e085bc
+guid: 0f68514b2bf52d0419b914ac12b0ccb3
 folderAsset: yes
 DefaultImporter:
 ========
@@ -9,6 +10,12 @@ NativeFormatImporter:
 >>>>>>>> Stashed changes:IMDM-290-final/Assets/Scenes/Materials/Skybox Threshold 0.mat.meta
   externalObjects: {}
   mainObjectFileID: 2100000
+=======
+guid: e4d5bbdc54114492592f75371dc890b8
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+>>>>>>> Stashed changes:IMDM-290-final/Assets/materials/Materials.meta
   userData: 
   assetBundleName: 
   assetBundleVariant: 
