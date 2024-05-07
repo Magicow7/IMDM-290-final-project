@@ -18,9 +18,11 @@ public class AsteroidController : MonoBehaviour
     public float frequency = 3f;
     public float amplitude = 10f;
     public float rockAmount = 5f; //1-10 scale?
-    public Vector3 playerNear = new Vector3(0, 0, 1);
+    public Vector3 playerNear = new Vector3(0,1.5f,0);
     public float playerNearUL = 0.5f; //UL/upper limit
     public float fadeAfter = 10f;
+
+    public float asteroidWaitTime = 10f;
 
     public GameObject[] rocksAll;
     public List<GameObject> rocksList;
@@ -35,17 +37,13 @@ public class AsteroidController : MonoBehaviour
         //{
         //    rocksList.Add(i);
         //}
+        StartCoroutine(ShootCoolDown());
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
-        var rand = UnityEngine.Random.Range(0, 100);    //every frame / how often rly ? 
-        Debug.Log(rand);
-        if (rand < rockAmount)
-        {
-            StartCoroutine(Shoot());      
-        }
+        
     }
 
     private IEnumerator Shoot()
@@ -54,16 +52,24 @@ public class AsteroidController : MonoBehaviour
         Vector3 startPos = nRock.transform.position;
         var randRotation = new Quaternion(1,1,1,1);
         GameObject projectile = Instantiate(nRock, startPos,randRotation); 
+        projectile.GetComponent<Spin>().xRotSpeed = UnityEngine.Random.Range(-2,2);
+        projectile.GetComponent<Spin>().yRotSpeed = UnityEngine.Random.Range(-2,2);
+        projectile.GetComponent<Spin>().zRotSpeed = UnityEngine.Random.Range(-2,2);
             //nRock.transform.rotation * UnityEngine.Random.Range());
+        Vector3 temp = new Vector3 (UnityEngine.Random.Range(playerNear.x + playerNearUL, playerNear.x - playerNearUL), UnityEngine.Random.Range(playerNear.y + playerNearUL, playerNear.y - playerNearUL), UnityEngine.Random.Range(playerNear.z + playerNearUL, playerNear.z - playerNearUL));
 
-        playerNear = new Vector3 (UnityEngine.Random.Range(0, playerNearUL), UnityEngine.Random.Range(0, playerNearUL), UnityEngine.Random.Range(0, playerNearUL));
-
-        Vector3 average = Vector3.Lerp(startPos, playerNear, 0.5f);
+        Vector3 average = Vector3.Lerp(startPos, temp, 0.5f);
         projectile.GetComponent<Rigidbody>().AddForce(-average * speed, ForceMode.Force);
         StartCoroutine(FadeIn(projectile));
 
         yield return new WaitForSeconds(fadeAfter);
         StartCoroutine(FadeOut(projectile));
+        StartCoroutine(ShootCoolDown());
+    }
+
+    private IEnumerator ShootCoolDown(){
+        yield return new WaitForSeconds(UnityEngine.Random.Range(asteroidWaitTime, asteroidWaitTime + 5));
+        StartCoroutine(Shoot());
     }
 
     private IEnumerator FadeOut(GameObject obj)
