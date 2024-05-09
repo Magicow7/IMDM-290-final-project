@@ -22,6 +22,8 @@ public class WandHandler : MonoBehaviour
     private bool rightGripDown;
 
     public GameObject projectile;
+    public AudioSource soundEffect;
+    public AudioClip soundClip;
     // Start is called before the first frame update
     void Start()
     {
@@ -37,6 +39,7 @@ public class WandHandler : MonoBehaviour
             GameObject newProjectile = Instantiate(projectile, RHand.transform.position, RHand.transform.rotation);
             Vector3 average = Vector3.Lerp(RHand.transform.forward, RHand.transform.up, rotationratio);
             newProjectile.GetComponent<Rigidbody>().AddForce(average*projectileSpeed, ForceMode.Force);
+            soundEffect.PlayOneShot(soundClip);
         }
         /*
         if((Input.GetKeyDown("space")  || Input.GetButtonDown("Fire1"))){

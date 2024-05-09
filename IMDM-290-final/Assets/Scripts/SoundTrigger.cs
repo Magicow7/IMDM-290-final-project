@@ -9,6 +9,8 @@ public class SoundTrigger : MonoBehaviour
     public GameObject constellationLines;
     public ParticleSystem particleEffect;
     public AudioSource player;
+    public AudioSource soundEffectSource;
+    public AudioClip soundEffect;
     // Start is called before the first frame update
     void Start()
     {
@@ -25,10 +27,12 @@ public class SoundTrigger : MonoBehaviour
         soundOn = !soundOn;
         if(soundOn){
             particleEffect.Play();
+            soundEffectSource.PlayOneShot(soundEffect);
         }
         ThresholdHandler.instance.updateThreshold(soundOn);
         constellationLines.SetActive(soundOn);
         StartCoroutine(volumeChange(soundOn));
+        
         //player.mute = !soundOn;
     }
 
