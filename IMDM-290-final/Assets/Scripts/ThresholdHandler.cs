@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Android;
 
 public class ThresholdHandler : MonoBehaviour
 {
@@ -21,6 +22,7 @@ public class ThresholdHandler : MonoBehaviour
 
     public AsteroidController asteroidHandler;
     public ParticleSystem myParticleSystem;
+    public GameObject startScreen;
     // Start is called before the first frame update
     void Start()
     {
@@ -35,7 +37,11 @@ public class ThresholdHandler : MonoBehaviour
         }else{
             level--;
         }
-        
+        //Turn off the start screen once anything is active
+        if (level > 1)
+        {
+            startScreen.SetActive(false);
+        }
 
         for(int i = 0; i <= level; i++){
             foreach(GameObject g in nestedList[i].sampleList){
@@ -49,6 +55,7 @@ public class ThresholdHandler : MonoBehaviour
         }
         changeSkybox(level);
         changeAsteroids(level);
+        changeParticles(level);
     }
     public void changeSkybox(int level)
     {
@@ -74,9 +81,26 @@ public class ThresholdHandler : MonoBehaviour
         asteroidHandler.asteroidWaitTime = 16 - level;
     }
     
-    /*public void changeParticles(int level)
+    public void changeParticles(int level)
     {
-        myParticleSystem.P
-    }*/
+        var emission = myParticleSystem.emission;
+        emission.rateOverTime = level * 50;
+        if (level <= 3)
+        {
+            emission.rateOverTime = 25;
+        }
+        if (level > 3 && level <= 6)
+        {
+            emission.rateOverTime = 150;
+        }
+        if (level > 6 && level <= 9)
+        {
+            emission.rateOverTime = 400;
+        }
+        if (level > 9)
+        {
+            emission.rateOverTime = 700;
+        }
+    }
 }
 
