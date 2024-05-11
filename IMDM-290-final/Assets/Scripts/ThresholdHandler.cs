@@ -23,6 +23,7 @@ public class ThresholdHandler : MonoBehaviour
     public AsteroidController asteroidHandler;
     public ParticleSystem myParticleSystem;
     public GameObject startScreen;
+    public GameObject shoothere;
     // Start is called before the first frame update
     void Start()
     {
@@ -41,6 +42,7 @@ public class ThresholdHandler : MonoBehaviour
         if (level > 1)
         {
             startScreen.SetActive(false);
+            shoothere.SetActive(false);
         }
 
         for(int i = 0; i <= level; i++){
@@ -78,7 +80,7 @@ public class ThresholdHandler : MonoBehaviour
     }
     public void changeAsteroids(int level)
     {
-        asteroidHandler.asteroidWaitTime = 16 - level;
+        asteroidHandler.asteroidWaitTime = 13 - level;
     }
     
     public void changeParticles(int level)
